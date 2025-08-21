@@ -1,3 +1,3 @@
 # DataVisualization
 
-📊 [Download Power BI Dashboard](./DV-Report.pbix)
+📊 [Download Power BI Dashboard](./DV-project.pbix)
