@@ -16,7 +16,7 @@ The goal of this project is to provide clear insights into athlete performance, 
 - **Data Cleaning & Integration** – pre-processing raw Olympic data  
 
 ## 📊 Dashboard Preview  
-![Olympics Dashboard Preview](./dashboard-preview.png)  
+![Olympics Dashboard Preview](./Dashboard-preview.PNG)  
 
 ## 🚀 How to Access  
 1. Download the `.pbix` file from this repository:  
